@@ -72,8 +72,4 @@ I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
 
 🌐 https://thedavedev.com
 
-🔗 https://linktr.ee/thedavedev
-
-🏢 Chainlink Labs GitHub
-
 💼 https://linkedin.com/in/davidisbitski
