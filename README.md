@@ -1,8 +1,8 @@
-# Hi, I'm Dave Isbitski 👋
+# Hi, I'm Dave Isbitski 
 
 AI Deployment • Developer Adoption • Executive Advisor
 
-Ex-Microsoft • Amazon • AWS • Chainlink
+Microsoft • Amazon • AWS • Chainlink
 
 For 30+ years I've helped developers and engineering organizations navigate major platform shifts—from cloud and voice computing to blockchain and artificial intelligence.
 
@@ -12,15 +12,15 @@ Today I'm focused on AI-assisted software development, agentic workflows, develo
 
 ## What I'm Building
 
-🤖 AI-native applications and workflows
+- AI-native applications and workflows
 
-🚀 Experiments with Codex, GPT-5.5, and AI-assisted development
+- Experiments with Codex, GPT-5.5, and AI-assisted development
 
-⚡ Developer productivity tools and automations
+- Developer productivity tools and automations
 
-🔗 AI + blockchain integrations
+- AI + blockchain integrations
 
-🎙️ Technical content, demos, and educational resources
+- Technical content, demos, and educational resources
 
 ---
 
