@@ -62,7 +62,7 @@ I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
 ## Speaking & Community
 
 * AWS Developers Podcast Host (115 Episodes)
-* VOICE Summit Keynote Speaker
+* Known Keynote Speaker
 * Hundreds of workshops, technical briefings, and executive engagements
 * Fortune 500 developer and technology adoption initiatives
 
