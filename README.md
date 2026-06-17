@@ -1,24 +1,79 @@
-# Hi, I'm Dave Isbitski
+# Hi, I'm Dave Isbitski 👋
 
-I'm a developer relations engineer, builder, and podcaster exploring how AI
-agents and decentralized systems can improve the developer experience.
+AI Deployment • Developer Adoption • Executive Advisor
 
-## What I'm Working On
+Ex-Microsoft • Amazon • AWS • Chainlink
 
-- Building practical experiments for evaluating AI agents
-- Creating **Fast Thirteen**, a simple cross-platform fasting tracker
-- Sharing useful coding lessons and developer workflows
-- Helping developers understand Web3, DeFi, and emerging technology
+For 30+ years I've helped developers and engineering organizations navigate major platform shifts—from cloud and voice computing to blockchain and artificial intelligence.
+
+Today I'm focused on AI-assisted software development, agentic workflows, developer productivity, and exploring how AI is changing the way software gets built.
+
+---
+
+## What I'm Building
+
+🤖 AI-native applications and workflows
+
+🚀 Experiments with Codex, GPT-5.5, and AI-assisted development
+
+⚡ Developer productivity tools and automations
+
+🔗 AI + blockchain integrations
+
+🎙️ Technical content, demos, and educational resources
+
+---
 
 ## Current Projects
 
-| Project | Description |
-| --- | --- |
-| [AI Agent Evaluation Lab](https://github.com/disbitski/agent-eval-lab) | Reproducible experiments for understanding agent behavior, reliability, and tool use |
-| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | A focused fasting tracker for the web and Apple devices |
+| Project                      | Description                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------ |
+| AI Agent Evaluation Lab      | Reproducible experiments for understanding agent behavior, reliability, and tool use |
+| Fast Thirteen                | Cross-platform fasting tracker for web and Apple devices                             |
+| AI Workflow Experiments      | Exploring how modern AI coding tools reshape software development                    |
+| Developer Productivity Demos | Practical examples showing AI-assisted development workflows                         |
+
+---
+
+## Current Focus
+
+I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
+
+* Build production applications
+* Prototype ideas rapidly
+* Create demos and technical content
+* Automate development workflows
+* Explore AI-native software engineering patterns
+
+---
+
+## Platform Shifts I've Helped Scale
+
+☁️ Cloud
+
+🎙️ Voice Computing
+
+⛓️ Blockchain
+
+🤖 Artificial Intelligence
+
+---
+
+## Speaking & Community
+
+* AWS Developers Podcast Host (115 Episodes)
+* VOICE Summit Keynote Speaker
+* Hundreds of workshops, technical briefings, and executive engagements
+* Fortune 500 developer and technology adoption initiatives
+
+---
 
 ## Connect
 
-- [Linktree](https://linktr.ee/thedavedev)
-- [GitHub at Chainlink Labs](https://github.com/disbitski-cll)
+🌐 https://thedavedev.com
 
+🔗 https://linktr.ee/thedavedev
+
+🏢 Chainlink Labs GitHub
+
+💼 https://linkedin.com/in/davidisbitski
