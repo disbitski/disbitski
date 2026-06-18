@@ -85,15 +85,8 @@ I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
 
 ## Speaking & Community
 
+* Alexa Developers Podcast Host
 * AWS Developers Podcast Host (115 Episodes)
 * Known Keynote Speaker
 * Hundreds of workshops, technical briefings, and executive engagements
 * Fortune 500 developer and technology adoption initiatives
-
----
-
-## Connect
-
-https:/thedavedev.com
-
-https://linkedin.com/in/davidisbitski
