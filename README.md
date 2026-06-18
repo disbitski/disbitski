@@ -71,13 +71,15 @@ I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
 
 ## Platform Shifts I've Helped Scale
 
-☁️ Cloud
+* Cloud
 
-🎙️ Voice Computing
+* Mobile
 
-⛓️ Blockchain
+* NLU/Voice Computing
 
-🤖 Artificial Intelligence
+* Blockchain
+
+* Artificial Intelligence
 
 ---
 
