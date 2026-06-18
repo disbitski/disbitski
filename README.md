@@ -94,6 +94,6 @@ I use Codex, GPT-5.5, Claude, and modern AI tooling daily to:
 
 ## Connect
 
-🌐 https://thedavedev.com
+https:/thedavedev.com
 
-💼 https://linkedin.com/in/davidisbitski
+https://linkedin.com/in/davidisbitski
