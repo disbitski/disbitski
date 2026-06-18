@@ -26,12 +26,31 @@ Today I'm focused on AI-assisted software development, agentic workflows, develo
 
 ## Current Projects
 
-| Project                      | Description                                                                          |
-| ---------------------------- | ------------------------------------------------------------------------------------ |
-| AI Agent Evaluation Lab      | Reproducible experiments for understanding agent behavior, reliability, and tool use |
-| Fast Thirteen                | Cross-platform fasting tracker for web and Apple devices                             |
-| AI Workflow Experiments      | Exploring how modern AI coding tools reshape software development                    |
-| Developer Productivity Demos | Practical examples showing AI-assisted development workflows                         |
+| Project | Description |
+| --- | --- |
+| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | Focused fasting tracker for the web and Apple devices |
+| [Prizecaster](https://github.com/disbitski/Prizecaster) | Presenter-friendly raffle drawing app for events, with optional Chainlink VRF verified randomness |
+| [Oracle Pulse](https://github.com/disbitski/oracle-pulse) | Live crypto price dashboard powered by Chainlink Data Feeds |
+| [SecureVal](https://github.com/disbitski/secureval) | Secure cross-chain value transfer project powered by Chainlink CCIP and CCT |
+
+---
+
+## Experiments
+
+| Project | Description |
+| --- | --- |
+| [AI Workflow Experiments](https://github.com/disbitski/dev-field-notes) | Field notes and experiments exploring how modern AI coding tools reshape software development |
+| Developer Productivity Demos | Practical examples showing AI-assisted development workflows, reliability, and tool use |
+
+---
+
+## Popular Apps Projects
+
+| Project | Description |
+| --- | --- |
+| [dungeondice](https://github.com/disbitski/dungeondice) | Tabletop RPG dice roller for Alexa that became a top Alexa skill and is still active with customers using it today |
+| [Win8GameKit](https://github.com/disbitski/Win8GameKit) | HTML5 casual game kit that runs both on Windows and outside of Windows; also part of the LinkedIn course work for game developers |
+| [DoodlePad](https://github.com/disbitski/DoodlePad) | Sketching app that reached #1 in the Windows Phone Store; kept here for historical reference now that Windows Phone is no longer an active platform |
 
 ---
 
