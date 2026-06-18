@@ -32,6 +32,7 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 | [Prizecaster](https://github.com/disbitski/Prizecaster) | Presenter-friendly raffle drawing app for events, with optional Chainlink VRF verified randomness |
 | [Oracle Pulse](https://github.com/disbitski/oracle-pulse) | Live crypto price dashboard powered by Chainlink Data Feeds |
 | [SecureVal](https://github.com/disbitski/secureval) | Secure cross-chain value transfer project powered by Chainlink CCIP and CCT |
+| [MintGuard](https://github.com/disbitski/MintGuard) | Policy-secured minting platform for tokenized assets, powered by Chainlink ACE |
 
 ---
 
