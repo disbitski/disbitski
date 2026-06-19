@@ -28,10 +28,10 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 
 | Project | Description |
 | --- | --- |
-| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | Focused fasting tracker for the web and Apple devices |
+| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | A focused fasting tracker for web and Apple devices, built around simple daily behavior, clean UX, and personal accountability. |
 | [Prizecaster](https://github.com/disbitski/Prizecaster) | Presenter-friendly raffle drawing app for events, with optional Chainlink VRF verified randomness |
-| [Oracle Pulse](https://github.com/disbitski/oracle-pulse) | Live crypto price dashboard powered by Chainlink Data Feeds |
-| [SecureVal](https://github.com/disbitski/secureval) | Secure cross-chain value transfer project powered by Chainlink CCIP and CCT |
+| [Oracle Pulse](https://github.com/disbitski/oracle-pulse) | A dark themed live crypto price dashboard powered by Chainlink Data Feeds. |
+| [SecureVal](https://github.com/disbitski/secureval) | Secures and transfers tokenized value across chains with explicit burn-and-mint controls, powered by Chainlink CCIP and CCT. |
 | [MintGuard](https://github.com/disbitski/MintGuard) | Policy-secured minting platform for tokenized assets, powered by Chainlink ACE |
 
 ---
