@@ -24,6 +24,16 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 
 ---
 
+## Real World AI
+
+Notes from the trenches: practical Codex knowledge, human-AI workflow thinking,
+and real experiments from building with modern AI tools.
+
+| Project | Description |
+| --- | --- |
+| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
+---
+
 ## Current Projects
 
 | Project | Description |
@@ -34,16 +44,6 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 | [SecureVal](https://github.com/disbitski/secureval) | Secures and transfers tokenized value across chains with explicit burn-and-mint controls, powered by Chainlink CCIP and CCT. |
 | [MintGuard](https://github.com/disbitski/MintGuard) | Policy-secured minting platform for tokenized assets, powered by Chainlink ACE |
 
----
-
-## Real World AI
-
-Notes from the trenches: practical Codex knowledge, human-AI workflow thinking,
-and real experiments from building with modern AI tools.
-
-| Project | Description |
-| --- | --- |
-| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
 ---
 
 ## Popular Apps Projects
