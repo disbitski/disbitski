@@ -43,9 +43,7 @@ and real experiments from building with modern AI tools.
 
 | Project | Description |
 | --- | --- |
-| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. |
-| [AI Workflow Experiments](https://github.com/disbitski/dev-field-notes) | Field notes and experiments exploring how modern AI coding tools reshape software development |
-
+| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
 ---
 
 ## Popular Apps Projects
