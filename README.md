@@ -54,6 +54,12 @@ and real experiments from building with modern AI tools.
 | [Win8GameKit](https://github.com/disbitski/Win8GameKit) | HTML5 casual game kit that runs both on Windows and outside of Windows; also part of the LinkedIn course work for game developers |
 | [DoodlePad](https://github.com/disbitski/DoodlePad) | Sketching app that reached #1 in the Windows Phone Store; kept here for historical reference now that Windows Phone is no longer an active platform |
 
+## Helpful Utilities
+
+| Project | Description |
+| --- | --- |
+| [claude-code-statusline](https://github.com/disbitski/claude-code-statusline) | Compact, color-coded Claude Code statusline for model, effort, context, token usage, rate limits, and CLI version |
+
 ---
 
 ## Current Focus
