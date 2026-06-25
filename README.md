@@ -42,6 +42,8 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 | Project | Description |
 | --- | --- |
 | [Codex Autonomous Finance Agent with Robinhood MCP](https://github.com/disbitski/codex-autonomous-finance-agent-robinhood-mcp) | Codex + Robinhood MCP automation templates for daily portfolio briefings and opt-in weekly investment workflows, built with explicit safety guardrails. |
+| [Grok Daily Analysis Briefings](https://github.com/disbitski/grok-daily-analysis-briefings) | Daily Grok Task prompts, inspired by Brian Roemmele's high-signal curator pattern, that turn X into briefings for AI, robotics, Tesla, SpaceX, and emerging technology trends. |
+
 ---
 
 ## Current Projects
