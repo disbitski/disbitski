@@ -16,7 +16,7 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 
 - Real-world AI field notes and workflow experiments
 
-- Experiments with Codex, GPT-5.5, Claude, Gemini, Antigravity, Cursor, Agentic workflows, MCP servers, and AI-assisted development
+- Experiments with Codex, GPT-5.5, Claude, Opus 4.8, Gemini, Antigravity, Cursor, Agentic workflows, MCP servers, and AI-assisted development
 
 - AI + blockchain integrations
 
@@ -31,7 +31,7 @@ and real experiments from building with modern AI tools.
 
 | Project | Description |
 | --- | --- |
-| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
+| [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Claude & Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
 
 ---
 
@@ -42,7 +42,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 | Project | Description |
 | --- | --- |
 | [Codex Autonomous Finance Agent with Robinhood MCP](https://github.com/disbitski/codex-autonomous-finance-agent-robinhood-mcp) | Codex + Robinhood MCP automation templates for daily portfolio briefings and opt-in weekly investment workflows, built with explicit safety guardrails. |
-| [Grok Daily Analysis Briefings](https://github.com/disbitski/grok-daily-analysis-briefings) | Daily Grok Task prompts, inspired by Brian Roemmele's high-signal curator pattern, that turn X into briefings for AI, robotics, Tesla, SpaceX, and emerging technology trends. |
+| [Grok Daily Analysis Briefings](https://github.com/disbitski/grok-daily-analysis-briefings) | Daily Grok Task prompts that turn X into briefings for AI, Robotics, Tesla, SpaceX, and emerging technology trends. |
 
 ---
 
