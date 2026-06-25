@@ -32,6 +32,16 @@ and real experiments from building with modern AI tools.
 | Project | Description |
 | --- | --- |
 | [Real World AI Lab](https://github.com/disbitski/real-world-ai-lab) | Practical research, field notes, and reproducible experiments on AI agents, Codex workflows, and human-AI collaboration. This is my real world experience, summarized and made actionable to accelerate your own journey. |
+
+---
+
+## Agentic Briefing Systems
+
+Recurring AI workflows that turn live data, tools, and personal operating rules into practical daily briefings. These projects explore how agents can research, summarize, email, and, where explicitly configured, act inside guarded workflows.
+
+| Project | Description |
+| --- | --- |
+| [Codex Autonomous Finance Agent with Robinhood MCP](https://github.com/disbitski/codex-autonomous-finance-agent-robinhood-mcp) | Codex + Robinhood MCP automation templates for daily portfolio briefings and opt-in weekly micro-deployment workflows, built with explicit safety guardrails and no financial advice. |
 ---
 
 ## Current Projects
