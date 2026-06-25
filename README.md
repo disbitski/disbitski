@@ -67,6 +67,7 @@ and real experiments from building with modern AI tools.
 | Project | Description |
 | --- | --- |
 | [claude-code-statusline](https://github.com/disbitski/claude-code-statusline) | Compact, color-coded Claude Code statusline for model, effort, context, token usage, rate limits, and CLI version |
+| [create-from-slideshare](https://github.com/disbitski/create-from-slideshare) | Codex skill that turns a broken Slideshare download into a full recovery workflow: inspect the viewer, pull visible slide assets, rebuild PPTX/PDF/images, create a manifest, and verify the deck with a contact sheet. |
 
 ---
 
