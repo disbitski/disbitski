@@ -46,6 +46,14 @@ and real experiments from building with modern AI tools.
 
 ---
 
+## Game Development
+
+| Project | Description |
+| --- | --- |
+| [Embermere RPG](https://github.com/disbitski/embermere-rpg) | Building a classic high-fantasy, tab-target RPG inspired by early EverQuest and World of Warcraft while learning Unreal Engine 5.8 in public with Codex, GPT-5.5, and Unreal MCP. |
+
+---
+
 ## Popular Apps Projects
 
 | Project | Description |
