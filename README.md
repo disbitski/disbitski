@@ -41,7 +41,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 | Project | Description |
 | --- | --- |
-| [Codex Autonomous Finance Agent with Robinhood MCP](https://github.com/disbitski/codex-autonomous-finance-agent-robinhood-mcp) | Codex + Robinhood MCP automation templates for daily portfolio briefings and opt-in weekly micro-deployment workflows, built with explicit safety guardrails and no financial advice. |
+| [Codex Autonomous Finance Agent with Robinhood MCP](https://github.com/disbitski/codex-autonomous-finance-agent-robinhood-mcp) | Codex + Robinhood MCP automation templates for daily portfolio briefings and opt-in weekly investment workflows, built with explicit safety guardrails. |
 ---
 
 ## Current Projects
