@@ -16,7 +16,7 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 
 - Real-world AI field notes and workflow experiments
 
-- Experiments with Codex, GPT-5.5, Claude, Opus 4.8, Gemini, Antigravity, Cursor, Agentic workflows, MCP servers, and AI-assisted development
+- Experiments with Codex, GPT-5.5, Claude, Opus 4.8, Cursor, Agentic workflows, MCP servers, and AI-assisted development
 
 - AI + blockchain integrations
 
@@ -85,7 +85,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 ## Current Focus
 
-I use Codex, GPT-5.5, Claude, Claude.ai, Claude Code, Antigravity, Cursor, and modern AI tooling daily to:
+I use Codex, GPT-5.5, Claude, Claude Code, Cursor, and modern AI tooling daily to:
 
 * Build production applications
 * Prototype ideas rapidly
