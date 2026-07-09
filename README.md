@@ -16,7 +16,7 @@ Today I'm focused on real-world AI workflows, agentic software development, and 
 
 - Real-world AI field notes and workflow experiments
 
-- Experiments with Codex, GPT-5.5, Claude, Opus 4.8, Cursor, Agentic workflows, MCP servers, and AI-assisted development
+- Experiments with ChatGPT Codex, GPT-5.6, Claude, Opus 4.8, Cursor, Agentic workflows, MCP servers, and AI-assisted development
 
 - AI + blockchain integrations
 
@@ -62,7 +62,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 | Project | Description |
 | --- | --- |
-| [Embermere RPG](https://github.com/disbitski/embermere-rpg) | Building a classic high-fantasy, tab-target RPG inspired by early EverQuest and World of Warcraft while learning Unreal Engine 5.8 in public with Codex, GPT-5.5, and Unreal MCP. |
+| [Embermere RPG](https://github.com/disbitski/embermere-rpg) | Building a classic high-fantasy, tab-target RPG inspired by early EverQuest and World of Warcraft while learning Unreal Engine 5.8 in public with ChatGPT Codex, GPT-5.6, and Unreal MCP. |
 
 ---
 
@@ -85,7 +85,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 ## Current Focus
 
-I use Codex, GPT-5.5, Claude, Claude Code, Cursor, and modern AI tooling daily to:
+I use ChatGPT Codex, GPT-5.6, Claude, Claude Code, Cursor, and modern AI tooling daily to:
 
 * Build production applications
 * Prototype ideas rapidly
