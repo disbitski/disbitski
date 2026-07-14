@@ -62,7 +62,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 | Project | Description |
 | --- | --- |
-| [Embermere RPG](https://github.com/disbitski/embermere-rpg) | Building a classic high-fantasy, tab-target RPG inspired by early EverQuest and World of Warcraft while learning Unreal Engine 5.8 in public with ChatGPT Codex, GPT-5.6, and Unreal MCP. |
+| [Embermere RPG](https://github.com/disbitski/embermere-rpg) | Building a classic high-fantasy, tab-target RPG inspired by early EverQuest and World of Warcraft while learning Unreal Engine 5.8 in public with ChatGPT Codex, GPT-5.6 Sol, Blender MCP and Unreal MCP. |
 
 ---
 
