@@ -35,6 +35,17 @@ and real experiments from building with modern AI tools.
 
 ---
 
+## Full-Featured Applications
+
+Complete applications built around focused real-world problems, with the product depth, native polish, testing, and lifecycle behavior needed to solve the whole job rather than stop at a prototype.
+
+| Project | Description |
+| --- | --- |
+| [Morrowward](https://github.com/disbitski/morrowward) | A local-first financial future simulator built from idea to a feature-complete production experience in four days for OpenAI Build Week. Morrowward combines deterministic long-term projections, a synthetic Market Journey, a no-real-money practice portfolio, 48 guided financial-literacy questions, a bounded GPT-5.6 educator, source-backed daily prices and market briefings, four visual themes, an installable PWA, iPhone and Mac companions, and a full day-by-day human-AI build journal. It helps people see how small, consistent actions can compound into knowledge, confidence, hope, and a more intentional path toward financial freedom. |
+| [MacRes4K](https://github.com/disbitski/real-world-ai-lab/blob/main/field-notes/2026-07-21-building-macres4k-with-codex.md) | A native macOS menu-bar utility for switching one 4K display between exact 1920×1080 HiDPI desktop mode and 3840×2160 native gaming mode. Built with Swift, AppKit, CoreGraphics, exact mode matching, refresh-rate preservation, login launch, safe HiDPI restoration, a custom Finder icon, and a focused two-choice interface. |
+
+---
+
 ## Agentic Briefing Systems
 
 Recurring AI workflows that turn live data, tools, and personal operating rules into practical daily briefings. These projects explore how agents can research, summarize, email, and, where explicitly configured, act inside guarded workflows.
@@ -46,7 +57,7 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 ---
 
-## Current Projects
+## Projects
 
 | Project | Description |
 | --- | --- |
