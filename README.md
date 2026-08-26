@@ -41,6 +41,7 @@ Complete applications built around focused real-world problems, with the product
 
 | Project | Description |
 | --- | --- |
+| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | A full-featured daily fasting app built from more than a decade of personal 13-hour fasting practice. Fast Thirteen combines a focused web tracker with native SwiftUI apps for Mac, iPhone, and standalone Apple Watch; one-tap fast controls; offline history; private Cloudflare sync across devices; editable sessions; streaks, total hours, and 7/30/90/1Y analytics; JSON backups; and five color themes. Explore the complete experience through the [live interactive sample](https://disbitski.github.io/fast-thirteen/). |
 | [MacRes4K](https://github.com/disbitski/MacRes4K) | A native macOS menu-bar utility for switching one 4K display between exact 1920×1080 HiDPI desktop mode and 3840×2160 native gaming mode. Built with Swift, AppKit, CoreGraphics, exact mode matching, refresh-rate preservation, login launch, safe HiDPI restoration, a custom Finder icon, and a focused two-choice interface. Read the [field note](https://github.com/disbitski/real-world-ai-lab/blob/main/field-notes/2026-07-21-building-macres4k-with-codex.md) for the CrossOver use case and human-AI build story. |
 
 ---
@@ -60,7 +61,6 @@ Recurring AI workflows that turn live data, tools, and personal operating rules 
 
 | Project | Description |
 | --- | --- |
-| [Fast Thirteen](https://github.com/disbitski/fast-thirteen) | A focused fasting tracker for web and Apple devices, built around simple daily behavior, clean UX, and personal accountability. |
 | [Prizecaster](https://github.com/disbitski/Prizecaster) | Presenter-friendly raffle drawing app for events, with optional Chainlink VRF verified randomness |
 | [Oracle Pulse](https://github.com/disbitski/oracle-pulse) | A dark themed live crypto price dashboard powered by Chainlink Data Feeds. |
 | [SecureVal](https://github.com/disbitski/secureval) | Secures and transfers tokenized value across chains with explicit burn-and-mint controls, powered by Chainlink CCIP and CCT. |
